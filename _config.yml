@@ -14,6 +14,10 @@ security_coordinator:
   name: Ava Palatiere
   email: Ava.Palatiere@austintexas.gov
   phone: 5124044115
+it_coordinator:
+  name: Jason Perkins
+  email: jason.perkins@austintexas.gov
+  phone: 5124044089
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek@v1.0
 searchable: true
